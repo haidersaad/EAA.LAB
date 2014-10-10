@@ -1,1 +1,1 @@
-cat /proc/cpuinfo | grep processor | wc -1
+cat /proc/cpuinfo | grep processor | wc 
